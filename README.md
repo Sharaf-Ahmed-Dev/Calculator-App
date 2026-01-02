@@ -13,8 +13,9 @@ A simple calculator web application that performs basic arithmetic operations su
 - JavaScript (DOM manipulation)
   
 ## Live Demo
-Check out the live version of the calculator here: [Live Demo](https://sharaf-ahmed-dev.github.io/Calculator-App/)
+Check out the live version of the calculator here: [Live Demo](https://sharaf-ahmed-dev.github.io/calculator-app/)
 
 ## ⚠️ Note
 - This project uses JavaScript `eval()` for calculations.
+
 
